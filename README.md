@@ -1,5 +1,5 @@
 ## FCC-Camper-Leaderboard
-##### This is the random quote project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-a-camper-leaderboard)
+##### This is the random quote project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Camper-Leaderboard/)
 
 <br/>
